@@ -44,4 +44,4 @@ The model's average ability to find true positives across both classes is 97%.
 In this model, the high precision and recall scores for Class 0 reflect strong performance on the majority class, while slightly lower scores for Class 1 indicate some difficulty in correctly identifying the minority class. However, the model's overall accuracy of 99% suggests it performs well across the dataset, mainly due to the large number of samples in Class 0.
 
 If you do not recommend any of the models, please justify your reasoning.
-I do not recommend the model because even though it could predict 85% accurately. I think issuing 15% high risk loans could cost financial institution a lot.
+I do not recommend the model because even though it could predict 85% accurately. I think issuing 15% high risk loans could cost financial institutions a lot.
